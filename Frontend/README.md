@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # software_graduation_project
 
 Quran App
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Software-Graduation-Project
+>>>>>>> 85ca35c507fc5862d7442b9175b8c753d68d7042
